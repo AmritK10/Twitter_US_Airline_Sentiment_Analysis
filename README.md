@@ -4,6 +4,7 @@ This data originally came from Crowdflower's Data for Everyone library: http://w
 A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").<br/><br/>
 It contains whether the sentiment of the tweets in this set was positive, neutral, or negative for six US airlines:<br/>
 <img width="898" alt="Screen Shot 2019-03-31 at 5 50 43 PM" src="https://user-images.githubusercontent.com/31596604/55288975-8f62b780-53dd-11e9-9446-21243a9a8559.png">
+### Features
 The csv file has been added to the repo as Tweets_data.csv.It contains the following features (columns):<br/>
 tweet_id<br/>
 airline_sentiment<br/>
